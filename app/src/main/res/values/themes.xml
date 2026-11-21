@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.MyFirstAndroidApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/bg</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
